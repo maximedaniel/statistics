@@ -1,6 +1,6 @@
 # Statistics
 
-A tool for computing descriptive and inferential statistics on each datasheet of an .xlsx file.
+A tool for computing and plotting descriptive and inferential statistics of each datasheet of an .xlsx file.
 
 ## Instructions
 
